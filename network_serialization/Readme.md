@@ -1,0 +1,1 @@
+Client serialize object(Person) and send it to server 
